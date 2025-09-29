@@ -1,1 +1,1 @@
-This Readme file
+This Readme file belongs to the Gadget Launch assignment that i have created for my assignment. I have used html only for the page construction. I have described about the SmartXpro Smartwatch which is to be launch
